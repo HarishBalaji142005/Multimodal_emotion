@@ -1,3 +1,12 @@
+---
+title: MultiModal Emotion AI
+sdk: streamlit
+sdk_version: 1.39.0
+python_version: "3.10"
+app_file: multimodal_emotion.py
+pinned: false
+---
+
 
 🧬 MultiModal Emotion AI
 
